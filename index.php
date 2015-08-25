@@ -30,8 +30,8 @@
         </div>
     </div>
 <?php }; ?>
-<?php if(file_exists("cache/chap-$curr_call.html")) { echo file_get_contents("cache/chap-$curr_call.html");  exit; } ?>
-<?php if(!file_exists("cache")) mkdir("cache"); ob_start(); ?>
+<?php if(!file_exists("cache")) mkdir("cache"); ?>
+<?php ob_start(); ?>
 <html>
     <meta charset="utf-8">
     <title><?php echo $is_toc ? "Table Of Content" : $curr_chap["title"] ?> - Essays Of Love</title>
@@ -105,10 +105,11 @@
             <div style="border-bottom: 2px dotted #e6e6e6;height: 20px;"></div>
             <h2 class="italic-font text-center" style="font-size: 20px;"><?php echo $book_author ?></h2>
             <h1 class='italic-font text-center' style="font-variant: small-caps; "><?php echo $book_title ?></h1>
+            <div style="height: 200px;"></div>
         </div>
     </body>
 </html>
-<?php 
+<?php
 $content = ob_get_clean();
 file_put_contents("cache/chap-$curr_call.html", $content); 
 echo $content; 
