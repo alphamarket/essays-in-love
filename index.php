@@ -1,6 +1,7 @@
-<?php require_once "data.builder/data.php"; ?>
 <?php $is_toc  = !count($_GET["chap"]); ?>
 <?php $curr_call = (!$is_toc ? $_GET["chap"] : "TOC"); ?>
+<?php if(file_exists("cache/chap-$curr_call.html")) { echo file_get_contents("cache/chap-$curr_call.html");  exit; } ?>
+<?php require_once "data.builder/data.php"; ?>
 <?php if(!$is_toc && ($curr_call < 1 || $curr_call > end($book_content)["chap"])) { header("location: /"); exit; } ?>
 <?php $is_last_chap = ($curr_call == end($book_content)["chap"]) ?>
 <?php $prev_call  = (!$is_toc ? $_GET["chap"] - 1 : "TOC"); ?>
@@ -33,6 +34,7 @@
 <?php if(!file_exists("cache")) mkdir("cache"); ob_start(); ?>
 <html>
     <meta charset="utf-8">
+    <title><?php echo $is_toc ? "Table Of Content" : $curr_chap["title"] ?> - Essays Of Love</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <head>
