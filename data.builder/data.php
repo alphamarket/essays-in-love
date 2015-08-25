@@ -40,7 +40,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 9,
-				"content" => "It was perhaps because we came to feel we were so right for one another [she did not just finish my sentences, she completed my life] that I was unable to contemplate the idea that meeting Chloe had been simply a coincidence. I lost the ability to consider the question of predestination with the ruthless skepticism some would say it demanded. Not normally superstitious, Chloe and I seized upon a host of details, however trivial, as confirmation of what intuitively we already felt: _that we had been destined for one another_. We learnt that both of us had been born around midnight [she at 11.45 p.m., I at 1.15 a.m.] in the same month of an even-numbered year. Both of us had played clarinet and had had parts in school productions of _A Midsummer Night's Dream_ [she had played Helena, I had played an attendant to Theseus]. Both of us had two large freckles on the toe of the left foot, and a cavity in the same rear molar. Both of us had a habit of sneezing in bright sunlight and of drawing ketchup out of its bottle with a knife. We even had the same copy of Anna Karenina on our shelves (the old Oxford edition) â€“ small details, perhaps, but were these not grounds enough on which believers could found a new religion?"
+				"content" => "It was perhaps because we came to feel we were so right for one another [she did not just finish my sentences, she completed my life] that I was unable to contemplate the idea that meeting Chloe had been simply a coincidence. I lost the ability to consider the question of predestination with the ruthless skepticism some would say it demanded. Not normally superstitious, Chloe and I seized upon a host of details, however trivial, as confirmation of what intuitively we already felt: _that we had been destined for one another_. We learnt that both of us had been born around midnight [she at 11.45 p.m., I at 1.15 a.m.] in the same month of an even-numbered year. Both of us had played clarinet and had had parts in school productions of _A Midsummer Night's Dream_ [she had played Helena, I had played an attendant to Theseus]. Both of us had two large freckles on the toe of the left foot, and a cavity in the same rear molar. Both of us had a habit of sneezing in bright sunlight and of drawing ketchup out of its bottle with a knife. We even had the same copy of Anna Karenina on our shelves (the old Oxford edition) – small details, perhaps, but were these not grounds enough on which believers could found a new religion?"
 			),
 			array(
 				"sec" => 10,
@@ -102,7 +102,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "A little later, I watched Chloe walk back towards me across the hall, wearing what I later learnt was her usual pained and slightly anxious expression. She had a face that looked permanently near tears, her eyes carried the fear of a person about to be told a piece of very bad news. Something about her made one want to comfort her, offer her reassurance â€“ or a hand to hold."
+				"content" => "A little later, I watched Chloe walk back towards me across the hall, wearing what I later learnt was her usual pained and slightly anxious expression. She had a face that looked permanently near tears, her eyes carried the fear of a person about to be told a piece of very bad news. Something about her made one want to comfort her, offer her reassurance – or a hand to hold."
 			),
 			array(
 				"sec" => 6,
@@ -118,7 +118,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 9,
-				"content" => "What is so frightening is the extent to which we may idealize others when we have such trouble tolerating ourselves â€“ because we have such trouble... I must have realized that Chloe was only human, with all the implications carried by the word, but could I not be forgiven for my desire to suspend such a thought? Every fall into love involves the triumph of hope over self-knowledge. We fall in love hoping we won't find in another what we know is in ourselves, all the cowardice, weakness, laziness, dishonesty, compromise, and stupidity. We throw a cordon of love around the chosen one and decide that everything within it will somehow be free of our faults. We locate inside another a perfection that eludes us within ourselves, and through our union with the beloved, hope to maintain (against the evidence of all self-knowledge) a precarious faith in our species."
+				"content" => "What is so frightening is the extent to which we may idealize others when we have such trouble tolerating ourselves – because we have such trouble... I must have realized that Chloe was only human, with all the implications carried by the word, but could I not be forgiven for my desire to suspend such a thought? Every fall into love involves the triumph of hope over self-knowledge. We fall in love hoping we won't find in another what we know is in ourselves, all the cowardice, weakness, laziness, dishonesty, compromise, and stupidity. We throw a cordon of love around the chosen one and decide that everything within it will somehow be free of our faults. We locate inside another a perfection that eludes us within ourselves, and through our union with the beloved, hope to maintain (against the evidence of all self-knowledge) a precarious faith in our species."
 			),
 			array(
 				"sec" => 10,
@@ -130,7 +130,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 12,
-				"content" => "Love reinvents our needs with unique speed. My impatience with the customs ritual indicated that Chloe, who I had not known existed a few hours ago, had already acquired the status of a craving. I felt I would die if I missed her outside â€“ die for the sake of someone who had only entered my life at eleven thirty that morning."
+				"content" => "Love reinvents our needs with unique speed. My impatience with the customs ritual indicated that Chloe, who I had not known existed a few hours ago, had already acquired the status of a craving. I felt I would die if I missed her outside – die for the sake of someone who had only entered my life at eleven thirty that morning."
 			),
 			array(
 				"sec" => 13,
@@ -234,7 +234,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "Silence and clumsiness could of course be taken as rather pitiful proof of desire. It being easy enough to seduce someone towards whom one feels indifferent, the clumsiest seducers could generously be deemed the most genuine. Not to find the right words is paradoxically often the best proof that the right words are meant. In that other Liaisons Dangereuses, the Marquise de Merteuil faults the Vicomte de Valmont for writing love letters that are too perfect, too logical to be the words of a true lover, whose thoughts will be disjointed and for whom the fine phrase will always elude. Real desire lacks articulacy â€“ but how willingly I would at that moment have swapped my constipation for the Vicomte's loquacity."
+				"content" => "Silence and clumsiness could of course be taken as rather pitiful proof of desire. It being easy enough to seduce someone towards whom one feels indifferent, the clumsiest seducers could generously be deemed the most genuine. Not to find the right words is paradoxically often the best proof that the right words are meant. In that other Liaisons Dangereuses, the Marquise de Merteuil faults the Vicomte de Valmont for writing love letters that are too perfect, too logical to be the words of a true lover, whose thoughts will be disjointed and for whom the fine phrase will always elude. Real desire lacks articulacy – but how willingly I would at that moment have swapped my constipation for the Vicomte's loquacity."
 			),
 			array(
 				"sec" => 6,
@@ -242,7 +242,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 7,
-				"content" => "Behind such clumsy questions (with every one I asked, I seemed to get further from knowing her) rested an impatient attempt to get to the most direct question of all, 'Who are you?' â€“ and hence 'Who should I be?' But my directness was doomed, and the more I practised it, the more my subject escaped through the net, letting me know what newspaper she read and music she liked, but not thereby enlightening me as to who she might really be."
+				"content" => "Behind such clumsy questions (with every one I asked, I seemed to get further from knowing her) rested an impatient attempt to get to the most direct question of all, 'Who are you?' – and hence 'Who should I be?' But my directness was doomed, and the more I practised it, the more my subject escaped through the net, letting me know what newspaper she read and music she liked, but not thereby enlightening me as to who she might really be."
 			),
 			array(
 				"sec" => 8,
@@ -266,7 +266,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 13,
-				"content" => "I had lied, but did Chloe like me any the more for it? Curiously, she merely expressed a certain disappointment, in view of the inferior taste of caramel, that I should have insisted so strongly on taking the chocolate â€“ adding in an off-hand way that a chocophile was in the end perhaps as much of a problem as a chocophobe."
+				"content" => "I had lied, but did Chloe like me any the more for it? Curiously, she merely expressed a certain disappointment, in view of the inferior taste of caramel, that I should have insisted so strongly on taking the chocolate – adding in an off-hand way that a chocophile was in the end perhaps as much of a problem as a chocophobe."
 			),
 			array(
 				"sec" => 14,
@@ -316,7 +316,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 8,
-				"content" => "But if there was one thing likely to check our passion, it was clumsiness. It was clumsiness that reminded Chloe and me of the humour and bizarreness of having ended up in bed together, I struggling to peel off her underwear (some of it had become caught around her knees), she having trouble with the buttons of my shirt â€“ yet each of us trying not to comment, not to smile even, looking at one another with an earnest air of desire, as though oblivious to the potentially comic side of what was going on, sitting semi-naked on the edge of the bed, our faces flushed like those of guilty schoolchildren."
+				"content" => "But if there was one thing likely to check our passion, it was clumsiness. It was clumsiness that reminded Chloe and me of the humour and bizarreness of having ended up in bed together, I struggling to peel off her underwear (some of it had become caught around her knees), she having trouble with the buttons of my shirt – yet each of us trying not to comment, not to smile even, looking at one another with an earnest air of desire, as though oblivious to the potentially comic side of what was going on, sitting semi-naked on the edge of the bed, our faces flushed like those of guilty schoolchildren."
 			),
 			array(
 				"sec" => 9,
@@ -418,15 +418,15 @@ $book_content = array(
 			),
 			array(
 				"sec" => 21,
-				"content" => "To be loved by someone is to realize how much they share the same needs that lie at the heart of our own attraction to them. Albert Camus suggested that we fall in love with people because, from the outside, they look so whole, physically whole and emotionally 'together' â€“ when subjectively, we feel dispersed and confused. We would not love if there were no lack within us, but we are offended by the discovery of a similar lack in the other. Expecting to find the answer, we find only the duplicate of our own problem."
+				"content" => "To be loved by someone is to realize how much they share the same needs that lie at the heart of our own attraction to them. Albert Camus suggested that we fall in love with people because, from the outside, they look so whole, physically whole and emotionally 'together' – when subjectively, we feel dispersed and confused. We would not love if there were no lack within us, but we are offended by the discovery of a similar lack in the other. Expecting to find the answer, we find only the duplicate of our own problem."
 			),
 			array(
 				"sec" => 22,
-				"content" => "A long, gloomy tradition in Western thought argues that love is in its essence an unreciprocated, Marxist emotion and that desire can only thrive on the impossibility of mutuality. According to this view, love is simply a direction, not a place, and burns itself out with the attainment of its goal, the possession (in bed or otherwise) of the loved one. The whole of troubadour poetry of twelfth-century Provence was based on coital delay, the poet repeating his plaints to a woman who repeatedly declined a desperate gentleman's offers. Centuries later, Montaigne declared that, 'In love, there is nothing but a frantic desire for what flees from us' â€“ an idea echoed by Anatole France's maxim that, 'It is not customary to love what one has.' Stendhal believed that love could be brought about only on the basis of a fear of losing the loved one and Denis de Rougemont confirmed, 'The most serious obstruction is the one preferred above all. It is the one most suited to intensifying passion.' To listen to this view, lovers cannot do anything save oscillate between the twin poles of yearning for someone and longing to be rid of them."
+				"content" => "A long, gloomy tradition in Western thought argues that love is in its essence an unreciprocated, Marxist emotion and that desire can only thrive on the impossibility of mutuality. According to this view, love is simply a direction, not a place, and burns itself out with the attainment of its goal, the possession (in bed or otherwise) of the loved one. The whole of troubadour poetry of twelfth-century Provence was based on coital delay, the poet repeating his plaints to a woman who repeatedly declined a desperate gentleman's offers. Centuries later, Montaigne declared that, 'In love, there is nothing but a frantic desire for what flees from us' – an idea echoed by Anatole France's maxim that, 'It is not customary to love what one has.' Stendhal believed that love could be brought about only on the basis of a fear of losing the loved one and Denis de Rougemont confirmed, 'The most serious obstruction is the one preferred above all. It is the one most suited to intensifying passion.' To listen to this view, lovers cannot do anything save oscillate between the twin poles of yearning for someone and longing to be rid of them."
 			),
 			array(
 				"sec" => 23,
-				"content" => "There was a danger that Chloe and I would trap ourselves in just such a Marxist spiral. But a happier resolution emerged. I returned home from the breakfast guilty, shamefaced, apologetic, and ready to do anything to win Chloe back. It wasn't easy. She hung up on me at first, then asked me whether I made a point of behaving like a 'small-time suburban punk' with women I had slept with. But after apologies, insults, laughter, and tears, Romeo and Juliet were to be seen together later that afternoon, mushily holding hands in the dark at a four-thirty screening of Love and Death at the National Film Theatre. Happy endings â€“ for now at least."
+				"content" => "There was a danger that Chloe and I would trap ourselves in just such a Marxist spiral. But a happier resolution emerged. I returned home from the breakfast guilty, shamefaced, apologetic, and ready to do anything to win Chloe back. It wasn't easy. She hung up on me at first, then asked me whether I made a point of behaving like a 'small-time suburban punk' with women I had slept with. But after apologies, insults, laughter, and tears, Romeo and Juliet were to be seen together later that afternoon, mushily holding hands in the dark at a four-thirty screening of Love and Death at the National Film Theatre. Happy endings – for now at least."
 			),
 			array(
 				"sec" => 24,
@@ -440,7 +440,7 @@ $book_content = array(
 		"sections" => array(
 			array(
 				"sec" => 1,
-				"content" => "Long before we've had a chance to become truly familiar with our loved one, we may be filled with the curious sense that we know them already. It can seem as though we've met them somewhere before, in a previous life, perhaps, or in our dreams. In Plato's Symposium, Aristophanes accounts for this feeling of familiarity by claiming that the loved one was our long-lost 'other half to whose body our own had originally been joined. In the beginning, all human beings were hermaphrodites with double backs and flanks, four hands and four legs and two faces turned in opposite directions on the same head. These hermaphrodites were so powerful and their pride so overweening that Zeus was forced to cut them in two, into a male and female half â€“ and from that day, every man and woman has yearned nostalgically but confusedly to rejoin the part from which he or she was severed."
+				"content" => "Long before we've had a chance to become truly familiar with our loved one, we may be filled with the curious sense that we know them already. It can seem as though we've met them somewhere before, in a previous life, perhaps, or in our dreams. In Plato's Symposium, Aristophanes accounts for this feeling of familiarity by claiming that the loved one was our long-lost 'other half to whose body our own had originally been joined. In the beginning, all human beings were hermaphrodites with double backs and flanks, four hands and four legs and two faces turned in opposite directions on the same head. These hermaphrodites were so powerful and their pride so overweening that Zeus was forced to cut them in two, into a male and female half – and from that day, every man and woman has yearned nostalgically but confusedly to rejoin the part from which he or she was severed."
 			),
 			array(
 				"sec" => 2,
@@ -456,7 +456,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "Therefore, in the mature account of love, we should never fall at first glance. We should reserve our leap until we have completed a clear-eyed investigation of the depths  and nature of the waters. Only after we have undertaken a thorough exchange of opinions on parenting, politics, art, science, and appropriate snacks for the kitchen should two people ever decide they are ready to love each other. In the mature account of love, it is only when we truly know our partners that love deserves the chance to grow. And yet in the perverse reality of love (love that is born precisely before we know) increased knowledge may be as much a hurdle as an inducement â€“ for it may bring Utopia into dangerous conflict with reality."
+				"content" => "Therefore, in the mature account of love, we should never fall at first glance. We should reserve our leap until we have completed a clear-eyed investigation of the depths  and nature of the waters. Only after we have undertaken a thorough exchange of opinions on parenting, politics, art, science, and appropriate snacks for the kitchen should two people ever decide they are ready to love each other. In the mature account of love, it is only when we truly know our partners that love deserves the chance to grow. And yet in the perverse reality of love (love that is born precisely before we know) increased knowledge may be as much a hurdle as an inducement – for it may bring Utopia into dangerous conflict with reality."
 			),
 			array(
 				"sec" => 6,
@@ -464,7 +464,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 7,
-				"content" => "What was wrong with Chloe's shoes? Objectively speaking, nothing â€“ but when did one ever fall in love objectively? She had bought them one Saturday morning in a shop on the King's Road, ready for a party we had been invited to that evening. I understood the blend of high- and low-heeled shoe that the designer had tried to fuse, the platformed sole rising sharply up to a heel with the breadth of a flat shoe but the height of a stiletto. Then there was the high, faintly rococo collar, decorated with a bow and stars, and framed by a piece of chunky ribbon. The shoes were the apogee of fashion, they were well made, they were imaginative, and I detested them."
+				"content" => "What was wrong with Chloe's shoes? Objectively speaking, nothing – but when did one ever fall in love objectively? She had bought them one Saturday morning in a shop on the King's Road, ready for a party we had been invited to that evening. I understood the blend of high- and low-heeled shoe that the designer had tried to fuse, the platformed sole rising sharply up to a heel with the breadth of a flat shoe but the height of a stiletto. Then there was the high, faintly rococo collar, decorated with a bow and stars, and framed by a piece of chunky ribbon. The shoes were the apogee of fashion, they were well made, they were imaginative, and I detested them."
 			),
 			array(
 				"sec" => 8,
@@ -476,7 +476,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 10,
-				"content" => "Perhaps the easiest people to fall in love with are those about whom we know nothing. Romances are never as pure as those we imagine during long train journeys, as we secretly contemplate a beautiful person who is gazing out of the window â€“ a perfect love story interrupted only when the beloved looks back into the carriage and starts up a dull conversation about the excessive price of the on-board sandwiches with a neighbour or blows her nose aggressively into a handkerchief."
+				"content" => "Perhaps the easiest people to fall in love with are those about whom we know nothing. Romances are never as pure as those we imagine during long train journeys, as we secretly contemplate a beautiful person who is gazing out of the window – a perfect love story interrupted only when the beloved looks back into the carriage and starts up a dull conversation about the excessive price of the on-board sandwiches with a neighbour or blows her nose aggressively into a handkerchief."
 			),
 			array(
 				"sec" => 11,
@@ -516,7 +516,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 20,
-				"content" => "On the train back to London that evening, I felt exhausted, weary at all the differences between Chloe's early world and mine. While the stories and settings of her past had enchanted me, they had also proved terrifying and bizarre, all these years and habits before I had known her, but that were as much a part of who she was as the shape of her nose or the colour of her eyes. I felt a primitive nostalgia for familiar surroundings, recognizing the disruption that every relationship entails â€“ a whole new person to learn about, to suggest myself to, to acclimatize myself to. It was perhaps a moment of fear at the thought of all the differences I would find in Chloe, all the times she would be one thing, and I another, when our world views would be incapable of alignment. Staring out of the window at the Wiltshire countryside, I had a lost child's longing for someone I could already wholly understand, the eccentricities of whose house, parents, and history I had already tamed."
+				"content" => "On the train back to London that evening, I felt exhausted, weary at all the differences between Chloe's early world and mine. While the stories and settings of her past had enchanted me, they had also proved terrifying and bizarre, all these years and habits before I had known her, but that were as much a part of who she was as the shape of her nose or the colour of her eyes. I felt a primitive nostalgia for familiar surroundings, recognizing the disruption that every relationship entails – a whole new person to learn about, to suggest myself to, to acclimatize myself to. It was perhaps a moment of fear at the thought of all the differences I would find in Chloe, all the times she would be one thing, and I another, when our world views would be incapable of alignment. Staring out of the window at the Wiltshire countryside, I had a lost child's longing for someone I could already wholly understand, the eccentricities of whose house, parents, and history I had already tamed."
 			),
 		)
 	),
@@ -542,7 +542,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "Our argument was peppered with the paradoxes of love and liberalism. What did it really matter what Chloe's shoes were like? There were so many other wonderful sides to her, was it not spoiling the game to arrest my gaze on this detail? Why could I not have politely lied to her as I might have done to a friend? My only excuse lay in the claim that I loved her, that she was my ideal â€“ save for the shoes â€“ and that I therefore had to point out this blemish, something I would never have done with a friend whose departures from my ideal would have been too numerous to begin with, a friendship in which the concept of an ideal would never even have entered into my thinking. Because I loved her, I told her â€“ therein lay my sole defence."
+				"content" => "Our argument was peppered with the paradoxes of love and liberalism. What did it really matter what Chloe's shoes were like? There were so many other wonderful sides to her, was it not spoiling the game to arrest my gaze on this detail? Why could I not have politely lied to her as I might have done to a friend? My only excuse lay in the claim that I loved her, that she was my ideal – save for the shoes – and that I therefore had to point out this blemish, something I would never have done with a friend whose departures from my ideal would have been too numerous to begin with, a friendship in which the concept of an ideal would never even have entered into my thinking. Because I loved her, I told her – therein lay my sole defence."
 			),
 			array(
 				"sec" => 6,
@@ -612,7 +612,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 2,
-				"content" => "If Marsilio Ficino (1433â€“99) defined love as 'the desire for beauty', in what ways did Chloe fulfil this desire? To listen to Chloe, in no way whatever. No amount of reassurance could persuade her that she was anything but loathsome. She insisted on finding her nose too small, her mouth too wide, her chin uninteresting, her ears too round, her eyes not green enough, her hair not wavy enough, her breasts too small, her feet too large, her hands too wide, and her wrists too narrow. She would gaze longingly at the faces in the pages of Elle and Vogue and declare that the concept of a just God was â€“ in the light of her physical appearance â€“ simply an incoherence."
+				"content" => "If Marsilio Ficino (1433–99) defined love as 'the desire for beauty', in what ways did Chloe fulfil this desire? To listen to Chloe, in no way whatever. No amount of reassurance could persuade her that she was anything but loathsome. She insisted on finding her nose too small, her mouth too wide, her chin uninteresting, her ears too round, her eyes not green enough, her hair not wavy enough, her breasts too small, her feet too large, her hands too wide, and her wrists too narrow. She would gaze longingly at the faces in the pages of Elle and Vogue and declare that the concept of a just God was – in the light of her physical appearance – simply an incoherence."
 			),
 			array(
 				"sec" => 3,
@@ -620,7 +620,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 4,
-				"content" => "Whatever mathematical errors there were in her face, Chloe found the rest of her body even more unbalanced. Whereas I loved to watch soapy water running over her stomach and legs in the shower, whenever she looked at herself in the mirror she would invariably declare that something was 'lopsided' â€“ though quite what I never discovered. Leon Battista Alberti (1409-72) might have known better, for he believed that any beautiful body had fixed proportions which he spelt out mathematically after dividing the body of a beautiful Italian girl into six hundred units, then working out the distances from section to section. Summing up his results in his book On Sculpture, Alberti defined beauty as 'a Harmony of all the Parts, in whatsoever Subject it appears, fitted together with such proportion and connection, that nothing could be added, diminished or altered, but for the worse'. But according to Chloe, however, almost anything about her body could have been added, diminished, or altered without spoiling anything that nature had not already devastated."
+				"content" => "Whatever mathematical errors there were in her face, Chloe found the rest of her body even more unbalanced. Whereas I loved to watch soapy water running over her stomach and legs in the shower, whenever she looked at herself in the mirror she would invariably declare that something was 'lopsided' – though quite what I never discovered. Leon Battista Alberti (1409-72) might have known better, for he believed that any beautiful body had fixed proportions which he spelt out mathematically after dividing the body of a beautiful Italian girl into six hundred units, then working out the distances from section to section. Summing up his results in his book On Sculpture, Alberti defined beauty as 'a Harmony of all the Parts, in whatsoever Subject it appears, fitted together with such proportion and connection, that nothing could be added, diminished or altered, but for the worse'. But according to Chloe, however, almost anything about her body could have been added, diminished, or altered without spoiling anything that nature had not already devastated."
 			),
 			array(
 				"sec" => 5,
@@ -632,7 +632,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 7,
-				"content" => "The way I looked at Chloe could have been compared to the famous MÃ¼ller-Lyer illusion, where two lines of identical length will appear to be of different sizes according to the nature of the arrows attached at their ends. The loving way that I gazed at Chloe functioned like a pair of outward arrows, which give an ordinary line a semblance of length it might not objectively deserve."
+				"content" => "The way I looked at Chloe could have been compared to the famous Müller-Lyer illusion, where two lines of identical length will appear to be of different sizes according to the nature of the arrows attached at their ends. The loving way that I gazed at Chloe functioned like a pair of outward arrows, which give an ordinary line a semblance of length it might not objectively deserve."
 			),
 			array(
 				"sec" => 8,
@@ -670,7 +670,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 4,
-				"content" => "With her customary resistance to the rose-tinted, Chloe would therefore probably have shrugged off a declaration with a joke, not because she did not want to hear, but because any formulation would have seemed dangerously close both to complete clichÃ© and total nakedness. It was not that Chloe was unsentimental, she was just too discreet with her emotions to speak about them in the worn, social language of the romantic. Though her feelings may have been directed towards me, in a curious sense, they were not for me to know."
+				"content" => "With her customary resistance to the rose-tinted, Chloe would therefore probably have shrugged off a declaration with a joke, not because she did not want to hear, but because any formulation would have seemed dangerously close both to complete cliché and total nakedness. It was not that Chloe was unsentimental, she was just too discreet with her emotions to speak about them in the worn, social language of the romantic. Though her feelings may have been directed towards me, in a curious sense, they were not for me to know."
 			),
 			array(
 				"sec" => 5,
@@ -698,7 +698,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 11,
-				"content" => "In the end, I decided that a card with a giraffe might not be the best place to articulate my feelings â€“ and that I should wait till dinner. At around eight, I drove to Chloe's apartment to pick her up and give her the present. She was delighted to find that I had heard her hints about the Piccadilly window, the only regret (tactfully delivered a few days later) was that it had been the blue and not the red pullover she'd really been pointing to (though receipts gave us a second chance, after I had tried to but been desisted from throwing myself out of the window)."
+				"content" => "In the end, I decided that a card with a giraffe might not be the best place to articulate my feelings – and that I should wait till dinner. At around eight, I drove to Chloe's apartment to pick her up and give her the present. She was delighted to find that I had heard her hints about the Piccadilly window, the only regret (tactfully delivered a few days later) was that it had been the blue and not the red pullover she'd really been pointing to (though receipts gave us a second chance, after I had tried to but been desisted from throwing myself out of the window)."
 			),
 			array(
 				"sec" => 12,
@@ -732,7 +732,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 2,
-				"content" => "'They told me it rained every day in London â€“ and look at this!' remarked Will as we sat one lunchtime in a restaurant in Covent Garden. 'Incredible, and I brought only pullovers.'"
+				"content" => "'They told me it rained every day in London – and look at this!' remarked Will as we sat one lunchtime in a restaurant in Covent Garden. 'Incredible, and I brought only pullovers.'"
 			),
 			array(
 				"sec" => 3,
@@ -784,7 +784,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 15,
-				"content" => "Yet what if her face was only a trompe l'oeil? 'By forty, everyone has the face they deserve,' wrote George Orwell, but Chloe was only just twenty-four â€“ and even if she had been older, we are in truth, despite Orwell's optimistic belief in natural justice, as unlikely to be given the face we deserve as the money or the opportunities."
+				"content" => "Yet what if her face was only a trompe l'oeil? 'By forty, everyone has the face they deserve,' wrote George Orwell, but Chloe was only just twenty-four – and even if she had been older, we are in truth, despite Orwell's optimistic belief in natural justice, as unlikely to be given the face we deserve as the money or the opportunities."
 			),
 			array(
 				"sec" => 16,
@@ -826,11 +826,11 @@ $book_content = array(
 			),
 			array(
 				"sec" => 6,
-				"content" => "From a religious point of view, the value of truth had of course been placed into question many centuries before. The philosopher Pascal (1623-62, hunchback Jansenist and author of the PensÃ©es) had talked of a choice facing every Christian in a world unevenly divided between the horror of a universe without God and the blissful â€“ but infinitely more remote - alternative that God did exist. Even though the odds were in favour of God not existing, Pascal argued that religious faith could still be justified because the joys of the slimmer probability so far outweighed the abomination of the larger one. And so it should perhaps be with love. Lovers cannot remain philosophers for long; they should give way to the religious impulse, which is to believe and have faith, as opposed to the philosophic impulse, which is to doubt and enquire. They should prefer the risk of being wrong and in love to being in doubt and without love."
+				"content" => "From a religious point of view, the value of truth had of course been placed into question many centuries before. The philosopher Pascal (1623-62, hunchback Jansenist and author of the Pensées) had talked of a choice facing every Christian in a world unevenly divided between the horror of a universe without God and the blissful – but infinitely more remote - alternative that God did exist. Even though the odds were in favour of God not existing, Pascal argued that religious faith could still be justified because the joys of the slimmer probability so far outweighed the abomination of the larger one. And so it should perhaps be with love. Lovers cannot remain philosophers for long; they should give way to the religious impulse, which is to believe and have faith, as opposed to the philosophic impulse, which is to doubt and enquire. They should prefer the risk of being wrong and in love to being in doubt and without love."
 			),
 			array(
 				"sec" => 7,
-				"content" => "Such thoughts were running through my mind one evening, sitting on Chloe's bed playing with her toy elephant Guppy. She'd told me that when she was a child, Guppy had played an enormous role in her life. He was a character as real as members of her family, and a lot more sympathetic. He had his own routines, his favourite foods, his own way of sleeping and talking â€“ and yet, from a more dispassionate position, it was evident that Guppy was entirely her creation and had no existence outside her imagination. But if there was one thing that would have been ruinous to Chloe's relationship with the elephant, it would have been to ask her whether or not the creature really existed: Does this furry thing actually live independently of you, or did you not simply invent him? And it occurred to me then that perhaps a similar discretion should be applied to lovers and their beloveds, that one should never ask a lover, Does this love-stuffed person actually exist or are you simply imagining them?"
+				"content" => "Such thoughts were running through my mind one evening, sitting on Chloe's bed playing with her toy elephant Guppy. She'd told me that when she was a child, Guppy had played an enormous role in her life. He was a character as real as members of her family, and a lot more sympathetic. He had his own routines, his favourite foods, his own way of sleeping and talking – and yet, from a more dispassionate position, it was evident that Guppy was entirely her creation and had no existence outside her imagination. But if there was one thing that would have been ruinous to Chloe's relationship with the elephant, it would have been to ask her whether or not the creature really existed: Does this furry thing actually live independently of you, or did you not simply invent him? And it occurred to me then that perhaps a similar discretion should be applied to lovers and their beloveds, that one should never ask a lover, Does this love-stuffed person actually exist or are you simply imagining them?"
 			),
 			array(
 				"sec" => 8,
@@ -860,7 +860,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 4,
-				"content" => "Diffusion brought with it intimacy. The borders between us ceased to be strictly patrolled. Our bodies no longer felt watched or judged. Chloe could read in bed and slide a finger into her nostril to clear an obstruction, roll it into a ball till it was dry and hard, and swallow it whole â€“ without needing to hide or apologize. We could risk intervals of silence, we were no longer paranoid talkers, unwilling to let the conversation drop lest tranquillity seem unfaithful. We grew assured of ourselves in the other's mind, rendering perpetual seduction (stemming from a fear of the opposite) obsolete."
+				"content" => "Diffusion brought with it intimacy. The borders between us ceased to be strictly patrolled. Our bodies no longer felt watched or judged. Chloe could read in bed and slide a finger into her nostril to clear an obstruction, roll it into a ball till it was dry and hard, and swallow it whole – without needing to hide or apologize. We could risk intervals of silence, we were no longer paranoid talkers, unwilling to let the conversation drop lest tranquillity seem unfaithful. We grew assured of ourselves in the other's mind, rendering perpetual seduction (stemming from a fear of the opposite) obsolete."
 			),
 			array(
 				"sec" => 5,
@@ -868,11 +868,11 @@ $book_content = array(
 			),
 			array(
 				"sec" => 6,
-				"content" => "An awareness of each other's particularities gave us a need to rename one another. Chloe and I had met with names given to us by our parents and formalized by passports and birth registers and naturally found that the more private knowledge we had acquired of one another deserved to find expression (however oblique) in names that others didn't use. Whereas in her office, Chloe was Chloe, to me, for reasons neither of us ever quite understood, she became known simply as Tidge. For my part, because I had once amused her with talk of a word for the pessimistic outlook of German intellectuals, I became known, perhaps less mysteriously, as Weltschmerz. The importance of these nicknames lay not in the particular name we had landed on â€“ we might have ended up calling one another Pwitt and Tic - but in the fact that we had chosen to relabel one another. Tidge suggested a knowledge of Chloe that Roy in accounts did not possess (the knowledge of the sound of a brush through her hair). Whereas Chloe belonged to her civil status, Tidge lay beyond the ordinary social realm, in the more secret and unique folds of love."
+				"content" => "An awareness of each other's particularities gave us a need to rename one another. Chloe and I had met with names given to us by our parents and formalized by passports and birth registers and naturally found that the more private knowledge we had acquired of one another deserved to find expression (however oblique) in names that others didn't use. Whereas in her office, Chloe was Chloe, to me, for reasons neither of us ever quite understood, she became known simply as Tidge. For my part, because I had once amused her with talk of a word for the pessimistic outlook of German intellectuals, I became known, perhaps less mysteriously, as Weltschmerz. The importance of these nicknames lay not in the particular name we had landed on – we might have ended up calling one another Pwitt and Tic - but in the fact that we had chosen to relabel one another. Tidge suggested a knowledge of Chloe that Roy in accounts did not possess (the knowledge of the sound of a brush through her hair). Whereas Chloe belonged to her civil status, Tidge lay beyond the ordinary social realm, in the more secret and unique folds of love."
 			),
 			array(
 				"sec" => 7,
-				"content" => "In each other's company, we spent a good deal of time discussing how awful other people were. Unable to express ourselves honestly in most of our daily interactions, we could between us aerate our lies and atone for the social niceties we had performed. Chloe became the final repository of my harsh verdicts on friends or colleagues. Things I had long thought about them but had tried to deny, I was free to share with a sympathetic and even encouraging audience. We frequently indulged in orgies of gossip. Whatever the pleasures of discovering mutual loves, nothing compares with the intimacy of landing on mutual hates. At times, we came close to concluding (though coyness prevented us from quite admitting this openly) that everyone we'd ever come across was deeply flawed â€“ and that we were in truth the only decent humans left on the planet. Love nourished itself through perpetual criticism of outsiders. The finest proof of our loyalty towards one other was our monstrous disloyalties towards everyone else."
+				"content" => "In each other's company, we spent a good deal of time discussing how awful other people were. Unable to express ourselves honestly in most of our daily interactions, we could between us aerate our lies and atone for the social niceties we had performed. Chloe became the final repository of my harsh verdicts on friends or colleagues. Things I had long thought about them but had tried to deny, I was free to share with a sympathetic and even encouraging audience. We frequently indulged in orgies of gossip. Whatever the pleasures of discovering mutual loves, nothing compares with the intimacy of landing on mutual hates. At times, we came close to concluding (though coyness prevented us from quite admitting this openly) that everyone we'd ever come across was deeply flawed – and that we were in truth the only decent humans left on the planet. Love nourished itself through perpetual criticism of outsiders. The finest proof of our loyalty towards one other was our monstrous disloyalties towards everyone else."
 			),
 			array(
 				"sec" => 8,
@@ -884,7 +884,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 10,
-				"content" => "But there wasn't much adventure or struggle around to be had. The world that Chloe and I lived in had largely been stripped of capacities for epic conflict. Our parents didn't care, the jungle had been tamed, society hid its disapproval behind universal tolerance, restaurants stayed open late, credit cards were accepted almost everywhere, and sex was a duty, not a crime. Yet Chloe and I did have a modest story of our own, a set of common experiences that bonded us together. What is an experience? Something that breaks a polite routine and for a brief period allows us to witness things with the heightened sensitivity afforded to us by novelty, danger, or beauty - and it's on the basis of shared experiences that intimacy is given an opportunity to grow. Friendships nourished solely by occasional dinners will never have the depth of those forged on a trek or at a university. Two people who are surprised by a lion in a jungle clearing will â€“ unless one of them is eaten â€“ be effectively bonded by what they have seen."
+				"content" => "But there wasn't much adventure or struggle around to be had. The world that Chloe and I lived in had largely been stripped of capacities for epic conflict. Our parents didn't care, the jungle had been tamed, society hid its disapproval behind universal tolerance, restaurants stayed open late, credit cards were accepted almost everywhere, and sex was a duty, not a crime. Yet Chloe and I did have a modest story of our own, a set of common experiences that bonded us together. What is an experience? Something that breaks a polite routine and for a brief period allows us to witness things with the heightened sensitivity afforded to us by novelty, danger, or beauty - and it's on the basis of shared experiences that intimacy is given an opportunity to grow. Friendships nourished solely by occasional dinners will never have the depth of those forged on a trek or at a university. Two people who are surprised by a lion in a jungle clearing will – unless one of them is eaten – be effectively bonded by what they have seen."
 			),
 			array(
 				"sec" => 11,
@@ -926,7 +926,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "It is no coincidence if, semantically speaking, love and interest are almost interchangeable, 'I love butterflies' meaning much the same as 'I am interested in butterflies'. To love someone is to take a deep interest in them, and by such concern to bring them to a richer sense of what they are doing and saying. Through her understanding, Chloe's behaviour towards me gradually became studded with elements of what could be termed 'I'-confirmation. Contained in her understanding of many of my moods, in her knowledge of my tastes, in the things she told me about myself, in her memory of my routines and habits, and in her humorous acknowledgement of my phobias lay a multitude of varied 'I'-confirmations. Chloe noticed that I was a hypochondriac, that I was shy and hated speaking on the phone, was obsessive in my need to get eight hours' sleep a night, hated lingering in restaurants at the end of meals, used politeness as an aggressive defence, and preferred to say 'maybe' rather than yes or no. She would quote me back at myself ('Last time, you said you didn't like that kind of irony...'), patiently holding in mind elements â€“ both good and bad â€“ of my character ('You always panic whenever...', 'I've never seen anyone forget petrol as often as you do...'). I was afforded a chance to mature thanks to the insights into my personality that Chloe afforded me. It takes the intimacy of a lover to point out facets of character that others simply don't bother with. There were times when Chloe would tell me frankly that I was defensive or critical, or more colourfully, 'a jumped-up twerp' or 'as nasty as congealed gravy' - and I would be brought face to face with areas of myself that ordinary introspection (in the interests of inner harmony) would have avoided, that others would have been too uninterested to highlight, and that it needed the honesty of the bedroom to reveal."
+				"content" => "It is no coincidence if, semantically speaking, love and interest are almost interchangeable, 'I love butterflies' meaning much the same as 'I am interested in butterflies'. To love someone is to take a deep interest in them, and by such concern to bring them to a richer sense of what they are doing and saying. Through her understanding, Chloe's behaviour towards me gradually became studded with elements of what could be termed 'I'-confirmation. Contained in her understanding of many of my moods, in her knowledge of my tastes, in the things she told me about myself, in her memory of my routines and habits, and in her humorous acknowledgement of my phobias lay a multitude of varied 'I'-confirmations. Chloe noticed that I was a hypochondriac, that I was shy and hated speaking on the phone, was obsessive in my need to get eight hours' sleep a night, hated lingering in restaurants at the end of meals, used politeness as an aggressive defence, and preferred to say 'maybe' rather than yes or no. She would quote me back at myself ('Last time, you said you didn't like that kind of irony...'), patiently holding in mind elements – both good and bad – of my character ('You always panic whenever...', 'I've never seen anyone forget petrol as often as you do...'). I was afforded a chance to mature thanks to the insights into my personality that Chloe afforded me. It takes the intimacy of a lover to point out facets of character that others simply don't bother with. There were times when Chloe would tell me frankly that I was defensive or critical, or more colourfully, 'a jumped-up twerp' or 'as nasty as congealed gravy' - and I would be brought face to face with areas of myself that ordinary introspection (in the interests of inner harmony) would have avoided, that others would have been too uninterested to highlight, and that it needed the honesty of the bedroom to reveal."
 			),
 			array(
 				"sec" => 6,
@@ -942,7 +942,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 9,
-				"content" => "The problem with needing others to legitimate our existence is that we are very much at their mercy to have a correct identity ascribed to us. If, as Stendhal says, we lack a character without others, then the other with whom we share our bed must be a skilled intermediary or we will end up feeling deformed and misrepresented. But do not others by definition always distort us â€“ whether for better or worse?"
+				"content" => "The problem with needing others to legitimate our existence is that we are very much at their mercy to have a correct identity ascribed to us. If, as Stendhal says, we lack a character without others, then the other with whom we share our bed must be a skilled intermediary or we will end up feeling deformed and misrepresented. But do not others by definition always distort us – whether for better or worse?"
 			),
 			array(
 				"sec" => 10,
@@ -978,7 +978,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 18,
-				"content" => "We long for a love in which we are never reduced or misunderstood. We have a morbid resistance to classification by others, to others placing labels on us (the man, the woman, the rich one, the poor one, the Jew, the Catholic, etc.). To ourselves, we are after all always un-labelable. When alone, we are always simply 'me', and shift between sides of ourselves effortlessly and without the constraints imposed by the preconceptions of others. But hearing Chloe one day talk of 'this guy I was seeing a while back', I was saddened to imagine myself in a few years' time (another man facing her across the tuna salad) being described merely as 'this architect guy I was once seeing...' Her casual reference to a past lover provided the necessary objectification for me to realize that, however special I was to her, I still existed within certain definitions ('a guy', 'my boyfriend') â€“ and that in Chloe's eyes, I was necessarily a simplified version of myself."
+				"content" => "We long for a love in which we are never reduced or misunderstood. We have a morbid resistance to classification by others, to others placing labels on us (the man, the woman, the rich one, the poor one, the Jew, the Catholic, etc.). To ourselves, we are after all always un-labelable. When alone, we are always simply 'me', and shift between sides of ourselves effortlessly and without the constraints imposed by the preconceptions of others. But hearing Chloe one day talk of 'this guy I was seeing a while back', I was saddened to imagine myself in a few years' time (another man facing her across the tuna salad) being described merely as 'this architect guy I was once seeing...' Her casual reference to a past lover provided the necessary objectification for me to realize that, however special I was to her, I still existed within certain definitions ('a guy', 'my boyfriend') – and that in Chloe's eyes, I was necessarily a simplified version of myself."
 			),
 			array(
 				"sec" => 19,
@@ -1000,7 +1000,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 3,
-				"content" => "Perhaps we can forgive ourselves for telling simple stories which sum up weekends with the word pleasant, stories which thereby introduce order into events which are in fact made up of tissues of troubling and ambivalent feelings. Yet perhaps we also owe it to ourselves occasionally to face the flux beneath the abbreviations. I loved Chloe â€“ and yet how much more variegated the reality was."
+				"content" => "Perhaps we can forgive ourselves for telling simple stories which sum up weekends with the word pleasant, stories which thereby introduce order into events which are in fact made up of tissues of troubling and ambivalent feelings. Yet perhaps we also owe it to ourselves occasionally to face the flux beneath the abbreviations. I loved Chloe – and yet how much more variegated the reality was."
 			),
 			array(
 				"sec" => 4,
@@ -1056,7 +1056,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 17,
-				"content" => "I was not alone in my erratic moods, for there were times when Chloe too would unexpectedly display bursts of aggression or frustration. Discussing a film with friends one night, she swerved into a hostile speech about my 'consistently patronizing' attitudes towards other people. I was at first baffled, for I had not even said anything, but I soon guessed that I was being repaid for a previous offence â€“ or even that I had become a useful target for a disgruntlement that Chloe was feeling towards someone else. Many of our arguments had an unfairness to them: I might get furious with Chloe not for the surface reason that she was emptying the dishwasher very noisily when I was trying to watch the news, but because I was feeling guilty about not having answered a difficult business call earlier in the day. Chloe might in turn deliberately make lots of noise in an effort to symbolize an anger she had not communicated to me that morning. We might define maturity as the ability to give everyone what they deserve when they deserve it, to separate the emotions that belong and should be restricted to oneself from those that should at once be expressed to their initiators rather than passed on to later and more innocent arrivals. We were often not mature."
+				"content" => "I was not alone in my erratic moods, for there were times when Chloe too would unexpectedly display bursts of aggression or frustration. Discussing a film with friends one night, she swerved into a hostile speech about my 'consistently patronizing' attitudes towards other people. I was at first baffled, for I had not even said anything, but I soon guessed that I was being repaid for a previous offence – or even that I had become a useful target for a disgruntlement that Chloe was feeling towards someone else. Many of our arguments had an unfairness to them: I might get furious with Chloe not for the surface reason that she was emptying the dishwasher very noisily when I was trying to watch the news, but because I was feeling guilty about not having answered a difficult business call earlier in the day. Chloe might in turn deliberately make lots of noise in an effort to symbolize an anger she had not communicated to me that morning. We might define maturity as the ability to give everyone what they deserve when they deserve it, to separate the emotions that belong and should be restricted to oneself from those that should at once be expressed to their initiators rather than passed on to later and more innocent arrivals. We were often not mature."
 			),
 			array(
 				"sec" => 18,
@@ -1150,7 +1150,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 14,
-				"content" => "The reasons behind such arguments were never the surface ones: whatever Chloe's deficiencies with the Guide Michelin, or my intolerance to driving around in large circles through the Spanish countryside, what was at stake were far deeper anxieties. The strength of the accusations we made, their sheer implausibility, showed that we argued not because we hated one another, but because we loved one another too much â€“ or, to risk confusing things, because we hated loving one another to the extent we did. Our accusations were loaded with a complicated subtext, I hate you, because I love you. It amounted to a fundamental protest, I hate having no choice but to risk loving you like this. The pleasures of depending on someone pale next to the paralysing fears that such dependence involves. Our occasionally fierce and somewhat inexplicable arguments during our trip through Valencia were nothing but a necessary release of tension that came from realizing that each one had placed all their eggs in the other's basket â€“ and was helpless to aim for more sound household management. Our arguments sometimes had an almost theatrical quality to them, a joy and exuberance would manifest itself as we set about destroying the bookshelf, smashing the crockery, or slamming doors: 'It's nice being able to feel I can hate you like this,' Chloe once said to me. 'It reassures me that you can take it, that I can tell you to fuck off and you'll throw something at me but stay put.' We needed to shout at one another partly to see whether or not we could tolerate each other's shouting. We wanted to test each other's capacity for survival: only if we had tried in vain to destroy one another would we know we were safe."
+				"content" => "The reasons behind such arguments were never the surface ones: whatever Chloe's deficiencies with the Guide Michelin, or my intolerance to driving around in large circles through the Spanish countryside, what was at stake were far deeper anxieties. The strength of the accusations we made, their sheer implausibility, showed that we argued not because we hated one another, but because we loved one another too much – or, to risk confusing things, because we hated loving one another to the extent we did. Our accusations were loaded with a complicated subtext, I hate you, because I love you. It amounted to a fundamental protest, I hate having no choice but to risk loving you like this. The pleasures of depending on someone pale next to the paralysing fears that such dependence involves. Our occasionally fierce and somewhat inexplicable arguments during our trip through Valencia were nothing but a necessary release of tension that came from realizing that each one had placed all their eggs in the other's basket – and was helpless to aim for more sound household management. Our arguments sometimes had an almost theatrical quality to them, a joy and exuberance would manifest itself as we set about destroying the bookshelf, smashing the crockery, or slamming doors: 'It's nice being able to feel I can hate you like this,' Chloe once said to me. 'It reassures me that you can take it, that I can tell you to fuck off and you'll throw something at me but stay put.' We needed to shout at one another partly to see whether or not we could tolerate each other's shouting. We wanted to test each other's capacity for survival: only if we had tried in vain to destroy one another would we know we were safe."
 			),
 			array(
 				"sec" => 15,
@@ -1158,7 +1158,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 16,
-				"content" => "'All of man's unhappiness comes from an inability to stay in his room alone,' said Pascal, advocating a need for man to build up his own resources over and against a debilitating dependence on the social sphere. But how could this possibly be achieved in love? Proust tells the story of Mohammed II who, sensing that he was falling in love with one of the wives in his harem, at once had her killed because he did not wish to live in spiritual bondage to another. Short of this, I had long ago given up hopes of achieving self-sufficiency. I had gone out of my room, and begun to love another â€“ thereby taking on the risk inseparable from basing one's life around another human being."
+				"content" => "'All of man's unhappiness comes from an inability to stay in his room alone,' said Pascal, advocating a need for man to build up his own resources over and against a debilitating dependence on the social sphere. But how could this possibly be achieved in love? Proust tells the story of Mohammed II who, sensing that he was falling in love with one of the wives in his harem, at once had her killed because he did not wish to live in spiritual bondage to another. Short of this, I had long ago given up hopes of achieving self-sufficiency. I had gone out of my room, and begun to love another – thereby taking on the risk inseparable from basing one's life around another human being."
 			),
 			array(
 				"sec" => 17,
@@ -1176,7 +1176,7 @@ $book_content = array(
 		"sections" => array(
 			array(
 				"sec" => 1,
-				"content" => "Though questions of reality and falsehood in this area are notorious for resisting scrutiny and systematic analysis, after our return from Spain I began to suspect â€“ without quite being able to look at the evidence in the face â€“ that Chloe had started to simulate all or some of her orgasms."
+				"content" => "Though questions of reality and falsehood in this area are notorious for resisting scrutiny and systematic analysis, after our return from Spain I began to suspect – without quite being able to look at the evidence in the face – that Chloe had started to simulate all or some of her orgasms."
 			),
 			array(
 				"sec" => 2,
@@ -1196,7 +1196,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 6,
-				"content" => "Passing an unfortunate woman in the street one day, Chloe had asked me, 'Would you have loved me if I'd had an enormous birthmark on my face like she does?' The yearning is that the answer be 'yes' â€“ an answer that would place love above the mundane surfaces of the body, or more particularly, its cruel unchangeable ones. I will love you not just for your wit and talent and beauty, but simply because you are you, with no strings attached. I love you for who you are deep in your soul, not for the colour of your eyes or the length of your legs or size of your chequebook. The longing is that the lover admire us stripped of our external assets, appreciating the essence of our being without accomplishments, ready to repeat the unconditional love said to exist in some parts between parent and child. The real self is what one can freely choose to be, and if a birthmark arises on our forehead or age withers us or recession bankrupts us, then we must be excused for accidents that have damaged what is only our surface. And even if we are beautiful and rich, then we do not wish to be loved on account of these things, for they may fail us, and with them, love. I would prefer you to compliment me on my brain than on my face, but if you must, then I would rather you comment on my smile (motor- and muscle-controlled) than on my nose (static and tissue-based). The desire is that I be loved even if I lose everything: leaving nothing but 'me', this mysterious 'me' taken to be the self at its weakest, most vulnerable point."
+				"content" => "Passing an unfortunate woman in the street one day, Chloe had asked me, 'Would you have loved me if I'd had an enormous birthmark on my face like she does?' The yearning is that the answer be 'yes' – an answer that would place love above the mundane surfaces of the body, or more particularly, its cruel unchangeable ones. I will love you not just for your wit and talent and beauty, but simply because you are you, with no strings attached. I love you for who you are deep in your soul, not for the colour of your eyes or the length of your legs or size of your chequebook. The longing is that the lover admire us stripped of our external assets, appreciating the essence of our being without accomplishments, ready to repeat the unconditional love said to exist in some parts between parent and child. The real self is what one can freely choose to be, and if a birthmark arises on our forehead or age withers us or recession bankrupts us, then we must be excused for accidents that have damaged what is only our surface. And even if we are beautiful and rich, then we do not wish to be loved on account of these things, for they may fail us, and with them, love. I would prefer you to compliment me on my brain than on my face, but if you must, then I would rather you comment on my smile (motor- and muscle-controlled) than on my nose (static and tissue-based). The desire is that I be loved even if I lose everything: leaving nothing but 'me', this mysterious 'me' taken to be the self at its weakest, most vulnerable point."
 			),
 			array(
 				"sec" => 7,
@@ -1208,7 +1208,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 9,
-				"content" => "Feeling implicated in her absence, guilty for my suspicions, and angry at my own guilt, I pretended to have noticed nothing when Chloe and I met at ten o'clock the following day. Yet she must have been guilty â€“ for why else would she have gone to her local supermarket to add to her kitchen the missing breakfast cereal to fill Weltschmertz's stomach? She accused herself not by her indifference, but by her sense of duty, a large packet of Three Cereal Golden Bran prominently placed on the window ledge."
+				"content" => "Feeling implicated in her absence, guilty for my suspicions, and angry at my own guilt, I pretended to have noticed nothing when Chloe and I met at ten o'clock the following day. Yet she must have been guilty – for why else would she have gone to her local supermarket to add to her kitchen the missing breakfast cereal to fill Weltschmertz's stomach? She accused herself not by her indifference, but by her sense of duty, a large packet of Three Cereal Golden Bran prominently placed on the window ledge."
 			),
 			array(
 				"sec" => 10,
@@ -1228,7 +1228,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 14,
-				"content" => "_I said once already, not now_. There are cases of skilled doctors, experts at detecting the first signs of cancer in their patients, who will somehow ignore the growth of football-sized tumours in their own body. There are examples of people who in most walks of life are clear and rational, but who are unable to accept that one of their children has died or that their wife or husband has left them â€“ and will continue to believe the child has merely gone missing or the spouse will leave their new marriage for the old. The shipwrecked lover cannot accept the evidence of the wreckage, continuing to behave as though nothing had changed, in the vain hope that by ignoring the verdict of execution, death will somehow be stalled. The signs of death were everywhere waiting to be read - had I not been struck by the illiteracy pain had induced."
+				"content" => "_I said once already, not now_. There are cases of skilled doctors, experts at detecting the first signs of cancer in their patients, who will somehow ignore the growth of football-sized tumours in their own body. There are examples of people who in most walks of life are clear and rational, but who are unable to accept that one of their children has died or that their wife or husband has left them – and will continue to believe the child has merely gone missing or the spouse will leave their new marriage for the old. The shipwrecked lover cannot accept the evidence of the wreckage, continuing to behave as though nothing had changed, in the vain hope that by ignoring the verdict of execution, death will somehow be stalled. The signs of death were everywhere waiting to be read - had I not been struck by the illiteracy pain had induced."
 			),
 			array(
 				"sec" => 15,
@@ -1262,7 +1262,7 @@ $book_content = array(
 		"sections" => array(
 			array(
 				"sec" => 1,
-				"content" => "\"Why don't you love me?\" is as impossible a question (though a far less pleasant one) to ask as \"Why do you love me?\" In both cases, we come up against our lack of conscious control in the amorous structure, the fact that love has been brought to us as a gift for reasons we never wholly determine or deserve. To ask such questions, we are forced to veer on one side towards complete arrogance, on the other to complete humility: \"What have I done to deserve love?\" asks the humble lover; I can have done nothing. \"What have I done to be denied love?\" protests the betrayed one, arrogantly claiming possession of a gift that is never one's due. To both questions, the one who hands out love can only reply: \"Because you are you\" â€“ an answer that leaves the beloved dangerously and unpredictably strung between grandiosity and depression."
+				"content" => "\"Why don't you love me?\" is as impossible a question (though a far less pleasant one) to ask as \"Why do you love me?\" In both cases, we come up against our lack of conscious control in the amorous structure, the fact that love has been brought to us as a gift for reasons we never wholly determine or deserve. To ask such questions, we are forced to veer on one side towards complete arrogance, on the other to complete humility: \"What have I done to deserve love?\" asks the humble lover; I can have done nothing. \"What have I done to be denied love?\" protests the betrayed one, arrogantly claiming possession of a gift that is never one's due. To both questions, the one who hands out love can only reply: \"Because you are you\" – an answer that leaves the beloved dangerously and unpredictably strung between grandiosity and depression."
 			),
 			array(
 				"sec" => 2,
@@ -1270,7 +1270,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 3,
-				"content" => "When every decision is difficult, no decision is taken. Chloe prevaricated, I joined her (for how could any decision be pleasant for me?). We continued to see one another and sleep with one another. We even made plans to visit Paris at Christmas time, yet Chloe was curiously disengaged from the process, as though she were making arrangements for someone else â€“ perhaps because it was easier to deal in airline tickets than the issues that lay behind their purchase or non-purchase. Her apathy embodied the hope that by doing nothing, another might take the decision for her, that by displaying her indecision and frustration while not acting on it I would ultimately perform the move that she had needed (but been too scared) to make herself."
+				"content" => "When every decision is difficult, no decision is taken. Chloe prevaricated, I joined her (for how could any decision be pleasant for me?). We continued to see one another and sleep with one another. We even made plans to visit Paris at Christmas time, yet Chloe was curiously disengaged from the process, as though she were making arrangements for someone else – perhaps because it was easier to deal in airline tickets than the issues that lay behind their purchase or non-purchase. Her apathy embodied the hope that by doing nothing, another might take the decision for her, that by displaying her indecision and frustration while not acting on it I would ultimately perform the move that she had needed (but been too scared) to make herself."
 			),
 			array(
 				"sec" => 4,
@@ -1282,7 +1282,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 6,
-				"content" => "When political dialogue has failed to resolve a grievance, the injured party may also in desperation resort to terrorist activity, extracting by force the concession it has been unable to seduce peacefully from its opposite number. Political terrorism is born out of deadlocked situations, behaviour that combines a party's need to act with an awareness (conscious or semi-conscious) that action will not go any way towards achieving the desired end â€“ and will if anything only alienate the other party further. The negativity of terrorism betrays all the signs of childish rage, a rage at one's own impotence in the face of a more powerful adversary."
+				"content" => "When political dialogue has failed to resolve a grievance, the injured party may also in desperation resort to terrorist activity, extracting by force the concession it has been unable to seduce peacefully from its opposite number. Political terrorism is born out of deadlocked situations, behaviour that combines a party's need to act with an awareness (conscious or semi-conscious) that action will not go any way towards achieving the desired end – and will if anything only alienate the other party further. The negativity of terrorism betrays all the signs of childish rage, a rage at one's own impotence in the face of a more powerful adversary."
 			),
 			array(
 				"sec" => 7,
@@ -1298,7 +1298,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 10,
-				"content" => "It was still snowing when we awoke the next morning, but it was too warm for it to settle, so the pavements turned to mud, brown beneath a low grey sky. We had decided to visit the MusÃ©e d'Orsay after breakfast, and planned to go on to a cinema in the afternoon. I had just shut the door to the hotel room, when Chloe asked me brusquely, 'Have you got the key?'"
+				"content" => "It was still snowing when we awoke the next morning, but it was too warm for it to settle, so the pavements turned to mud, brown beneath a low grey sky. We had decided to visit the Musée d'Orsay after breakfast, and planned to go on to a cinema in the afternoon. I had just shut the door to the hotel room, when Chloe asked me brusquely, 'Have you got the key?'"
 			),
 			array(
 				"sec" => 11,
@@ -1310,11 +1310,11 @@ $book_content = array(
 			),
 			array(
 				"sec" => 13,
-				"content" => "The key point about terrorism is that it is primarily designed to attract attention, a form of psychological warfare with goals (for instance, the creation of a Palestinian state) unrelated to military techniques (opening fire in the arrival lounge of Lod Airport). There is a discrepancy between means and ends, a sulk being used to make a point relatively unconnected to the sulk itself â€“ I am angry at you for accusing me of losing the key symbolizing the wider (but unspeakable) message I am angry at you for no longer loving me."
+				"content" => "The key point about terrorism is that it is primarily designed to attract attention, a form of psychological warfare with goals (for instance, the creation of a Palestinian state) unrelated to military techniques (opening fire in the arrival lounge of Lod Airport). There is a discrepancy between means and ends, a sulk being used to make a point relatively unconnected to the sulk itself – I am angry at you for accusing me of losing the key symbolizing the wider (but unspeakable) message I am angry at you for no longer loving me."
 			),
 			array(
 				"sec" => 14,
-				"content" => "Chloe was no brute and, whatever I might claim, had generous tendencies for self-blame. She had tried to follow me to Saint-Germain, but had lost me in the crowd. She had returned to the hotel, waited a while, and then gone to the MusÃ©e d'Orsay. When I finally came back to the room, I found her resting in bed, but without speaking to her, went into the bathroom and took a long shower."
+				"content" => "Chloe was no brute and, whatever I might claim, had generous tendencies for self-blame. She had tried to follow me to Saint-Germain, but had lost me in the crowd. She had returned to the hotel, waited a while, and then gone to the Musée d'Orsay. When I finally came back to the room, I found her resting in bed, but without speaking to her, went into the bathroom and took a long shower."
 			),
 			array(
 				"sec" => 15,
@@ -1322,7 +1322,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 16,
-				"content" => "After my shower, we finally made it up over the key incident, and went out for dinner to a restaurant on the ÃŽle de la CitÃ©. We were both on best behaviour, keen to avoid tensions, chatting on neutral territory about books, films, and capital cities. It might have seemed (from the waiter's point of view) that the couple was indeed a happy one â€“ and that romantic terrorism had scored a significant victory."
+				"content" => "After my shower, we finally made it up over the key incident, and went out for dinner to a restaurant on the Île de la Cité. We were both on best behaviour, keen to avoid tensions, chatting on neutral territory about books, films, and capital cities. It might have seemed (from the waiter's point of view) that the couple was indeed a happy one – and that romantic terrorism had scored a significant victory."
 			),
 			array(
 				"sec" => 17,
@@ -1330,7 +1330,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 18,
-				"content" => "Though ordinary terrorists may occasionally force concessions from governments by blowing up buildings or school children, romantic terrorists are doomed to disappointment because of a fundamental inconsistency in their approach. You must love me, says the romantic terrorist, I will force you to love me by sulking you or making you feel jealous, but then comes the paradox, for if love is returned, it is at once considered tainted, and the romantic terrorist must complain, \"If I have only forced you to love me, then I cannot accept this love, for it was not spontaneously given.\" Romantic terrorism is a demand that negates itself in the process of its resolution, it brings the terrorist up against an uncomfortable reality â€“ that love's death cannot be arrested."
+				"content" => "Though ordinary terrorists may occasionally force concessions from governments by blowing up buildings or school children, romantic terrorists are doomed to disappointment because of a fundamental inconsistency in their approach. You must love me, says the romantic terrorist, I will force you to love me by sulking you or making you feel jealous, but then comes the paradox, for if love is returned, it is at once considered tainted, and the romantic terrorist must complain, \"If I have only forced you to love me, then I cannot accept this love, for it was not spontaneously given.\" Romantic terrorism is a demand that negates itself in the process of its resolution, it brings the terrorist up against an uncomfortable reality – that love's death cannot be arrested."
 			),
 			array(
 				"sec" => 19,
@@ -1360,19 +1360,19 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "As the plane pierced the clouds, I tried to imagine a future: a period of life was coming brutally to an end, and I had nothing to replace it with, only a terrifying absence. We hope you enjoy your stay in London, and will choose to fly with us again soon. To fly again soon, but would I live again soon? I envied the assumptions of others, the security of fixed lives and plans to take off again soon. What would life mean from now on? Though we continued holding hands, I knew how Chloe and I would watch our bodies grow foreign. Walls would be built up, the separation would be institutionalized, I would meet her in a few months or years, we would be light, jovial, masked, dressed for business, ordering a salad in a restaurant â€“ unable to touch what only now we could reveal, the sheer human drama, the nakedness, the dependency, the unalterable loss. We would be like an audience emerging from a heart-wrenching play but unable to communicate anything of the emotions they had felt inside, able only to head for a drink at the bar, knowing there was more, but unable to touch it. Though it was agony, I preferred this moment to the ones that would come, the hours spent alone replaying it, blaming myself and her, trying to construct a future, an alternative story, like a confused playwright who does not know what to do with his characters (save kill them off for a neat ending...). All this till the wheels hit the tarmac at Heathrow, the engines were thrown into reverse, and the plane taxied towards the terminal, where it disgorged its cargo into the immigration hall. By the time Chloe and I had collected our luggage and passed through customs, the relationship was formally over. We would try to be good friends, we would try not to cry, we would try not to feel victims or executioners."
+				"content" => "As the plane pierced the clouds, I tried to imagine a future: a period of life was coming brutally to an end, and I had nothing to replace it with, only a terrifying absence. We hope you enjoy your stay in London, and will choose to fly with us again soon. To fly again soon, but would I live again soon? I envied the assumptions of others, the security of fixed lives and plans to take off again soon. What would life mean from now on? Though we continued holding hands, I knew how Chloe and I would watch our bodies grow foreign. Walls would be built up, the separation would be institutionalized, I would meet her in a few months or years, we would be light, jovial, masked, dressed for business, ordering a salad in a restaurant – unable to touch what only now we could reveal, the sheer human drama, the nakedness, the dependency, the unalterable loss. We would be like an audience emerging from a heart-wrenching play but unable to communicate anything of the emotions they had felt inside, able only to head for a drink at the bar, knowing there was more, but unable to touch it. Though it was agony, I preferred this moment to the ones that would come, the hours spent alone replaying it, blaming myself and her, trying to construct a future, an alternative story, like a confused playwright who does not know what to do with his characters (save kill them off for a neat ending...). All this till the wheels hit the tarmac at Heathrow, the engines were thrown into reverse, and the plane taxied towards the terminal, where it disgorged its cargo into the immigration hall. By the time Chloe and I had collected our luggage and passed through customs, the relationship was formally over. We would try to be good friends, we would try not to cry, we would try not to feel victims or executioners."
 			),
 			array(
 				"sec" => 6,
-				"content" => "Two days passed, numb. To suffer a blow and feel nothing â€“ in modern parlance, it means the blow must have been hard indeed. Then one morning, I received a hand-delivered letter from Chloe, her familiar black writing poured over two sheets of creamy-white paper:"
+				"content" => "Two days passed, numb. To suffer a blow and feel nothing – in modern parlance, it means the blow must have been hard indeed. Then one morning, I received a hand-delivered letter from Chloe, her familiar black writing poured over two sheets of creamy-white paper:"
 			),
 			array(
 				"sec" => 7,
-				"content" => "The letter brought no relief, only reminders. I recognized the cadences and accent of her speech, carrying with it the image of her face, the smell of her skin â€“ and the wound I had sustained. I wept at the finality of the letter, the situation confirmed, analysed, turned into the past tense. I could feel the doubts and ambivalence in her syntax, but the message was definitive. It was over, she was sorry it was over, but love had ebbed. At the end of a relationship, it is the one who is not in love who makes the tender speeches. I was overwhelmed by a sense of betrayal, betrayal because a union in which I had invested so much had been declared bankrupt without my feeling it to be so. Chloe had not given it a chance, I argued with myself, knowing the hopelessness of these inner courts announcing hollow verdicts at four thirty in the morning. Though there had been no contract, only the contract of the heart, I felt stung by Chloe's disloyalty, by her heresy, by her night with another man. How was it morally possible this should have been allowed to happen?"
+				"content" => "The letter brought no relief, only reminders. I recognized the cadences and accent of her speech, carrying with it the image of her face, the smell of her skin – and the wound I had sustained. I wept at the finality of the letter, the situation confirmed, analysed, turned into the past tense. I could feel the doubts and ambivalence in her syntax, but the message was definitive. It was over, she was sorry it was over, but love had ebbed. At the end of a relationship, it is the one who is not in love who makes the tender speeches. I was overwhelmed by a sense of betrayal, betrayal because a union in which I had invested so much had been declared bankrupt without my feeling it to be so. Chloe had not given it a chance, I argued with myself, knowing the hopelessness of these inner courts announcing hollow verdicts at four thirty in the morning. Though there had been no contract, only the contract of the heart, I felt stung by Chloe's disloyalty, by her heresy, by her night with another man. How was it morally possible this should have been allowed to happen?"
 			),
 			array(
 				"sec" => 8,
-				"content" => "It is surprising how often rejection in love is framed in moral language, the language of right and wrong, good and evil, as though to reject or not reject, to love of not to love, was something that naturally belonged to a branch of ethics. It is surprising how often the one who rejects is labelled evil, and the one who is rejected comes to embody the good. There was something of this moral attitude in both Chloe's and my behaviour. Framing her rejection, she had equated her inability to love with evil, and my love for her as evidence of goodness â€“ hence the conclusion, made on the basis of nothing more than that I still desired her, that I was 'too good' for her. Assuming that she largely meant what she said and was not simply being polite, she had made the ethical point that she was not good enough for me, by virtue of nothing more than having ceased to love me â€“ something she had deemed made her a less worthy person than I, a man who, in all the goodness of his heart, still felt able to love her."
+				"content" => "It is surprising how often rejection in love is framed in moral language, the language of right and wrong, good and evil, as though to reject or not reject, to love of not to love, was something that naturally belonged to a branch of ethics. It is surprising how often the one who rejects is labelled evil, and the one who is rejected comes to embody the good. There was something of this moral attitude in both Chloe's and my behaviour. Framing her rejection, she had equated her inability to love with evil, and my love for her as evidence of goodness – hence the conclusion, made on the basis of nothing more than that I still desired her, that I was 'too good' for her. Assuming that she largely meant what she said and was not simply being polite, she had made the ethical point that she was not good enough for me, by virtue of nothing more than having ceased to love me – something she had deemed made her a less worthy person than I, a man who, in all the goodness of his heart, still felt able to love her."
 			),
 			array(
 				"sec" => 9,
@@ -1408,7 +1408,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 17,
-				"content" => "The arrogance of wanting to be loved had emerged only now it was unreciprocated â€“ I was left alone with my desire, defenceless, beyond the law, shockingly crude in my demands: Love me! And for what reason? I had only the usual paltry, insufficient excuse: Because I love you..."
+				"content" => "The arrogance of wanting to be loved had emerged only now it was unreciprocated – I was left alone with my desire, defenceless, beyond the law, shockingly crude in my demands: Love me! And for what reason? I had only the usual paltry, insufficient excuse: Because I love you..."
 			),
 		)
 	),
@@ -1430,7 +1430,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 4,
-				"content" => "Once more I thought of destiny, once more I felt the almost divine nature of love. Both its arrival and departure, the first so beautiful, the second gruesome, reminded me that I was but a plaything for the games of Cupid and Aphrodite. Unbearably punished, I sought out my guilt. Unsure of quite what I had done, I confessed to everything. I tore myself apart looking for reasons: every insolence returned to haunt me, acts of ordinary cruelty and thoughtlessness â€“ none of these had been missed by the gods, who had now chosen to wreak their terrible revenge on me."
+				"content" => "Once more I thought of destiny, once more I felt the almost divine nature of love. Both its arrival and departure, the first so beautiful, the second gruesome, reminded me that I was but a plaything for the games of Cupid and Aphrodite. Unbearably punished, I sought out my guilt. Unsure of quite what I had done, I confessed to everything. I tore myself apart looking for reasons: every insolence returned to haunt me, acts of ordinary cruelty and thoughtlessness – none of these had been missed by the gods, who had now chosen to wreak their terrible revenge on me."
 			),
 			array(
 				"sec" => 5,
@@ -1442,7 +1442,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 7,
-				"content" => "The essence of a curse is that the person labouring under it cannot know of its existence. It is a secret code within the individual writing itself over a lifetime. Oedipus is warned by the Oracle that he will kill his father and marry his mother â€“ but conscious warnings serve no purpose, they cannot defuse the ominous prognosis. Oedipus is cast out from home in order to avoid the Oracle's prediction, but nevertheless ends up marrying Jocasta. His story is told for him, not by him. The curse defies the will."
+				"content" => "The essence of a curse is that the person labouring under it cannot know of its existence. It is a secret code within the individual writing itself over a lifetime. Oedipus is warned by the Oracle that he will kill his father and marry his mother – but conscious warnings serve no purpose, they cannot defuse the ominous prognosis. Oedipus is cast out from home in order to avoid the Oracle's prediction, but nevertheless ends up marrying Jocasta. His story is told for him, not by him. The curse defies the will."
 			),
 			array(
 				"sec" => 8,
@@ -1464,7 +1464,7 @@ $book_content = array(
 		"sections" => array(
 			array(
 				"sec" => 1,
-				"content" => "The Christmas season arrived, bringing with it carol singers, cards of good will and the first snowfalls. Chloe and I had been due to spend the Christmas weekend at a small hotel in Yorkshire. The brochure sat on my desk: 'Abbey Cottage welcomes its guests to warm Yorkshire hospitality in exquisite surroundings. Sit by the open fire in the oak-beamed living room, take a walk along the moors, or simply relax and let us take care of you. A holiday at Abbey Cottage is everything you always wanted from a hotel â€“ and more.'"
+				"content" => "The Christmas season arrived, bringing with it carol singers, cards of good will and the first snowfalls. Chloe and I had been due to spend the Christmas weekend at a small hotel in Yorkshire. The brochure sat on my desk: 'Abbey Cottage welcomes its guests to warm Yorkshire hospitality in exquisite surroundings. Sit by the open fire in the oak-beamed living room, take a walk along the moors, or simply relax and let us take care of you. A holiday at Abbey Cottage is everything you always wanted from a hotel – and more.'"
 			),
 			array(
 				"sec" => 2,
@@ -1476,7 +1476,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 4,
-				"content" => "My separation from Chloe had been accompanied by a thousand platitudinous sympathies from friends and acquaintances: it might have been nice, people drift apart, passion can't last for ever, better to have lived and loved, time will heal everything. Even Will managed to make it sound unexceptional, like an earthquake or a snowfall, something that nature sends to try us, and whose inevitability one should not think of challenging. My death would be a violent denial of normality â€“ it would be a reminder that I would not forget as others had forgotten. I wished to escape the erosion and softening of time, I wished the pain to last for ever only so as to be connected to Chloe via its burnt nerve endings. Only by my death could I assert the importance and immortality of my love, only through self-destruction could I remind a world grown weary of tragedy that love was a deadly serious matter."
+				"content" => "My separation from Chloe had been accompanied by a thousand platitudinous sympathies from friends and acquaintances: it might have been nice, people drift apart, passion can't last for ever, better to have lived and loved, time will heal everything. Even Will managed to make it sound unexceptional, like an earthquake or a snowfall, something that nature sends to try us, and whose inevitability one should not think of challenging. My death would be a violent denial of normality – it would be a reminder that I would not forget as others had forgotten. I wished to escape the erosion and softening of time, I wished the pain to last for ever only so as to be connected to Chloe via its burnt nerve endings. Only by my death could I assert the importance and immortality of my love, only through self-destruction could I remind a world grown weary of tragedy that love was a deadly serious matter."
 			),
 			array(
 				"sec" => 5,
@@ -1492,7 +1492,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 8,
-				"content" => "My mouth was frothing now, orange bubbles breeding in its cavity and exploding as they came into contact with the air, spraying a light orange film over the table and the collar of my shirt. As I observed this acidic chemical spectacle silently, I was struck by the incoherence of suicide: I did not wish to choose between being alive or dead. I simply wished to show Chloe that I could not, metaphorically speaking, live without her. The irony was that death would be too literal an act to grant me the chance to see the metaphor read, I would be deprived by the inability of the dead (in a secular framework at least) to look at the living looking at the dead. What was the point of making such a scene if I could not be there to witness others witnessing it? In picturing my death, I imagined myself in the role of audience to my own extinction, something that could never really happen in reality, when I would simply be dead, and hence denied my ultimate wish â€“ namely, to be both dead and alive. Dead so as to be able to show the world in general, and Chloe in particular, how angry I was, and alive, so as to be able to see the effect that I had had on Chloe and hence be released from my anger. It was not a question of being or not being. My answer to Hamlet was to be and not to be."
+				"content" => "My mouth was frothing now, orange bubbles breeding in its cavity and exploding as they came into contact with the air, spraying a light orange film over the table and the collar of my shirt. As I observed this acidic chemical spectacle silently, I was struck by the incoherence of suicide: I did not wish to choose between being alive or dead. I simply wished to show Chloe that I could not, metaphorically speaking, live without her. The irony was that death would be too literal an act to grant me the chance to see the metaphor read, I would be deprived by the inability of the dead (in a secular framework at least) to look at the living looking at the dead. What was the point of making such a scene if I could not be there to witness others witnessing it? In picturing my death, I imagined myself in the role of audience to my own extinction, something that could never really happen in reality, when I would simply be dead, and hence denied my ultimate wish – namely, to be both dead and alive. Dead so as to be able to show the world in general, and Chloe in particular, how angry I was, and alive, so as to be able to see the effect that I had had on Chloe and hence be released from my anger. It was not a question of being or not being. My answer to Hamlet was to be and not to be."
 			),
 			array(
 				"sec" => 9,
@@ -1522,7 +1522,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "But my reaction was remarkable only for its passivity â€“ or, rather, I failed to push reaction any way beyond acknowledgement. Since Chloe had left, I had done little but acknowledge. I had become a man who, in every sense of the word, could not be surprised. Surprise is, we are told by psychologists, a reaction to the unexpected, but I had come to expect everything, and could hence be surprised by nothing."
+				"content" => "But my reaction was remarkable only for its passivity – or, rather, I failed to push reaction any way beyond acknowledgement. Since Chloe had left, I had done little but acknowledge. I had become a man who, in every sense of the word, could not be surprised. Surprise is, we are told by psychologists, a reaction to the unexpected, but I had come to expect everything, and could hence be surprised by nothing."
 			),
 			array(
 				"sec" => 6,
@@ -1580,7 +1580,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 5,
-				"content" => "The physical world refused to let me forget. Life is crueller than art, for the latter usually assures that physical surroundings reflect characters' mental states. If someone in a Garcia Lorca play remarks on how the sky has turned low, dark, and grey, this is no longer an innocent meteorological observation, but a symbol of a psychological state. Life gives us no such handy markers â€“ a storm comes, and far from this being a harbinger of death and collapse, during its course, a person discovers love and truth, beauty and happiness, the rain lashing at the windows all the while. Similarly, in the course of a beautiful warm summer day, a car momentarily loses control on a winding road and crashes into a tree fatally injuring its passengers."
+				"content" => "The physical world refused to let me forget. Life is crueller than art, for the latter usually assures that physical surroundings reflect characters' mental states. If someone in a Garcia Lorca play remarks on how the sky has turned low, dark, and grey, this is no longer an innocent meteorological observation, but a symbol of a psychological state. Life gives us no such handy markers – a storm comes, and far from this being a harbinger of death and collapse, during its course, a person discovers love and truth, beauty and happiness, the rain lashing at the windows all the while. Similarly, in the course of a beautiful warm summer day, a car momentarily loses control on a winding road and crashes into a tree fatally injuring its passengers."
 			),
 			array(
 				"sec" => 6,
@@ -1634,11 +1634,11 @@ $book_content = array(
 			),
 			array(
 				"sec" => 6,
-				"content" => "With the naive common sense that complex problems may elicit, I would sometimes ask (as though the answer could fit on the back of an envelope), 'Why can't we just all love one another?' Surrounded on every side by the agonies of love, by the complaints of mothers, fathers, brothers, sisters, friends, and soap-opera stars, I would hold out the hope that simply because everyone was inflicting and suffering from much the same pain, a common answer could be found â€“ a metaphysical solution to the world's romantic problems on the grandiose scale of the Communists' answer to the inequities of international capital."
+				"content" => "With the naive common sense that complex problems may elicit, I would sometimes ask (as though the answer could fit on the back of an envelope), 'Why can't we just all love one another?' Surrounded on every side by the agonies of love, by the complaints of mothers, fathers, brothers, sisters, friends, and soap-opera stars, I would hold out the hope that simply because everyone was inflicting and suffering from much the same pain, a common answer could be found – a metaphysical solution to the world's romantic problems on the grandiose scale of the Communists' answer to the inequities of international capital."
 			),
 			array(
 				"sec" => 7,
-				"content" => "I was not alone in my utopian daydream, joined there by a group of people, let me call them romantic positivists, who believed that with enough thought and therapy, love could be made into a less painful, indeed almost healthy, experience. This assortment of analysts, preachers, gurus, therapists, and writers, while acknowledging that love was full of problems, supposed that genuine problems must have equally genuine solutions. Faced with the misery of most emotional lives, romantic positivists would try to identify causes â€“ a selfesteem complex, a father complex, a mother complex, a complex complex â€“ and suggest remedies (regression therapy, a reading of the City of God, gardening, meditation). Hamlet's fate could have been avoided with the help of a good Jungian analyst, Othello could have got his aggression out on a therapeutic cushion, Romeo might have met someone more suitable through a dating agency, Oedipus could have shared his problems in family therapy."
+				"content" => "I was not alone in my utopian daydream, joined there by a group of people, let me call them romantic positivists, who believed that with enough thought and therapy, love could be made into a less painful, indeed almost healthy, experience. This assortment of analysts, preachers, gurus, therapists, and writers, while acknowledging that love was full of problems, supposed that genuine problems must have equally genuine solutions. Faced with the misery of most emotional lives, romantic positivists would try to identify causes – a selfesteem complex, a father complex, a mother complex, a complex complex – and suggest remedies (regression therapy, a reading of the City of God, gardening, meditation). Hamlet's fate could have been avoided with the help of a good Jungian analyst, Othello could have got his aggression out on a therapeutic cushion, Romeo might have met someone more suitable through a dating agency, Oedipus could have shared his problems in family therapy."
 			),
 			array(
 				"sec" => 8,
@@ -1650,7 +1650,7 @@ $book_content = array(
 			),
 			array(
 				"sec" => 11,
-				"content" => "Perhaps because I had finished reading it only a few days before, I found myself drawing an unlikely parallel between the plight of those described by Dr Nearly and the heroine of Flaubert's great novel, the tragic Emma Bovary. Who was Emma Bovary? She was a young woman living in the French provinces, married to an adoring husband whom she loathed because she had come to associate love with suffering. Consequently, she began to have adulterous affairs with unsuitable men, cowards who treated her cruelly and could not be depended upon to fulfil her romantic longings. Emma Bovary was ill because she could not stop hoping that these men would change and love her properly â€“ when it was obvious that Rodolphe and Leon considered her as nothing more than an amusing distraction. Unfortunately, Emma lacked the opportunity to enter therapy and become self-conscious enough to realize the origins of her masochistic behaviour. She neglected her husband and child, squandered the family money, and in the end killed herself with arsenic, leaving behind a young child and a distraught husband."
+				"content" => "Perhaps because I had finished reading it only a few days before, I found myself drawing an unlikely parallel between the plight of those described by Dr Nearly and the heroine of Flaubert's great novel, the tragic Emma Bovary. Who was Emma Bovary? She was a young woman living in the French provinces, married to an adoring husband whom she loathed because she had come to associate love with suffering. Consequently, she began to have adulterous affairs with unsuitable men, cowards who treated her cruelly and could not be depended upon to fulfil her romantic longings. Emma Bovary was ill because she could not stop hoping that these men would change and love her properly – when it was obvious that Rodolphe and Leon considered her as nothing more than an amusing distraction. Unfortunately, Emma lacked the opportunity to enter therapy and become self-conscious enough to realize the origins of her masochistic behaviour. She neglected her husband and child, squandered the family money, and in the end killed herself with arsenic, leaving behind a young child and a distraught husband."
 			),
 			array(
 				"sec" => 12,
@@ -1670,19 +1670,19 @@ $book_content = array(
 			),
 			array(
 				"sec" => 16,
-				"content" => "The sight of Rachel alerted me to the limits of the stoic approach. Though love might never be painless and was certainly not wise, neither could it be forgotten. It was as inevitable as it was unreasonable â€“ and its unreason was unfortunately no argument against it. Was it not absurd to retreat into the Judaean hills in order to eat roots and shoots? If I wanted to be courageous, were there not greater opportunities for heroism in love? Moreover, for all the sacrifices demanded by the stoic life, was there not something cowardly within it? At the heart of stoicism lay the desire to disappoint oneself before someone else had the chance to do so. Stoicism was a crude defence against the dangers of the affections of others, a danger that it would take more endurance than a life in the desert to be able to face. In calling for a monastic existence free of emotional turmoil, stoicism was simply trying to deny the legitimacy of certain potentially painful yet fundamental human needs. However brave, the stoic was in the end a coward at the point of perhaps the highest reality, at the moment of love."
+				"content" => "The sight of Rachel alerted me to the limits of the stoic approach. Though love might never be painless and was certainly not wise, neither could it be forgotten. It was as inevitable as it was unreasonable – and its unreason was unfortunately no argument against it. Was it not absurd to retreat into the Judaean hills in order to eat roots and shoots? If I wanted to be courageous, were there not greater opportunities for heroism in love? Moreover, for all the sacrifices demanded by the stoic life, was there not something cowardly within it? At the heart of stoicism lay the desire to disappoint oneself before someone else had the chance to do so. Stoicism was a crude defence against the dangers of the affections of others, a danger that it would take more endurance than a life in the desert to be able to face. In calling for a monastic existence free of emotional turmoil, stoicism was simply trying to deny the legitimacy of certain potentially painful yet fundamental human needs. However brave, the stoic was in the end a coward at the point of perhaps the highest reality, at the moment of love."
 			),
 			array(
 				"sec" => 17,
-				"content" => "We can always blind ourselves to the complexities of a problem by suggesting solutions that reduce the issue to a lowest common denominator. Both romantic positivism and stoicism were inadequate answers to the problems raised by the agonies of love, because both of them collapsed the question rather than juggling with its contradictions. The stoics had collapsed the pain and irrationality of love into a conclusive argument against it â€“ thereby failing to balance the undoubted trauma of our desires with the intractability of our emotional needs. On the other hand, the romantic positivists were guilty of collapsing a certain easy grasp of psychological wisdom into a belief that love could be rendered painless for all, if only we learnt to love ourselves a little more â€“ thereby failing to juggle a need for wisdom with the inherent difficulties of acting on its precepts, reducing the tragedy of Madame Bovary to an illustration of Dr Nearly's truistic theories."
+				"content" => "We can always blind ourselves to the complexities of a problem by suggesting solutions that reduce the issue to a lowest common denominator. Both romantic positivism and stoicism were inadequate answers to the problems raised by the agonies of love, because both of them collapsed the question rather than juggling with its contradictions. The stoics had collapsed the pain and irrationality of love into a conclusive argument against it – thereby failing to balance the undoubted trauma of our desires with the intractability of our emotional needs. On the other hand, the romantic positivists were guilty of collapsing a certain easy grasp of psychological wisdom into a belief that love could be rendered painless for all, if only we learnt to love ourselves a little more – thereby failing to juggle a need for wisdom with the inherent difficulties of acting on its precepts, reducing the tragedy of Madame Bovary to an illustration of Dr Nearly's truistic theories."
 			),
 			array(
 				"sec" => 18,
-				"content" => "I realized that a more complex lesson needed to be drawn, one that could play with the incompatibilities of love, juggling the need for wisdom with its likely impotence, juggling the idiocy of infatuation with its inevitability. Love had to be appreciated without flight into dogmatic optimism or pessimism, without constructing a philosophy of one's fears, or a morality of one's disappointments. Love taught the analytic mind a certain humility, the lesson that however hard it struggled to reach immobile certainties (numbering its conclusions and embedding them in neat series), analysis could never be anything but flawed â€“ and therefore never stray far from the ironic."
+				"content" => "I realized that a more complex lesson needed to be drawn, one that could play with the incompatibilities of love, juggling the need for wisdom with its likely impotence, juggling the idiocy of infatuation with its inevitability. Love had to be appreciated without flight into dogmatic optimism or pessimism, without constructing a philosophy of one's fears, or a morality of one's disappointments. Love taught the analytic mind a certain humility, the lesson that however hard it struggled to reach immobile certainties (numbering its conclusions and embedding them in neat series), analysis could never be anything but flawed – and therefore never stray far from the ironic."
 			),
 			array(
 				"sec" => 19,
-				"content" => "Such lessons appeared all the more relevant when Rachel accepted my invitation for dinner the following week, and the very thought of her began sending tremors through the region the poets have called the heart, tremors that I knew could have meant one thing only â€“ that I had once more begun to fall."
+				"content" => "Such lessons appeared all the more relevant when Rachel accepted my invitation for dinner the following week, and the very thought of her began sending tremors through the region the poets have called the heart, tremors that I knew could have meant one thing only – that I had once more begun to fall."
 			),
 		)
 	),

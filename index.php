@@ -1,4 +1,4 @@
-<?php require_once "data.php"; ?>
+<?php require_once "data.builder/data.php"; ?>
 <?php $is_toc  = !count($_GET["chap"]); ?>
 <?php $curr_call = (!$is_toc ? $_GET["chap"] : "TOC"); ?>
 <?php if(!$is_toc && ($curr_call < 1 || $curr_call > end($book_content)["chap"])) { header("location: /"); exit; } ?>
