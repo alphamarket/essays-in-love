@@ -29,6 +29,8 @@
         </div>
     </div>
 <?php }; ?>
+<?php if(file_exists("cache/chap-$curr_call.html")) { echo file_get_contents("cache/chap-$curr_call.html");  exit; } ?>
+<?php if(!file_exists("cache")) mkdir("cache"); ob_start(); ?>
 <html>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -104,3 +106,8 @@
         </div>
     </body>
 </html>
+<?php 
+$content = ob_get_clean();
+file_put_contents("cache/chap-$curr_call.html", $content); 
+echo $content; 
+exit;
