@@ -34,6 +34,11 @@ int main()
     if(!file.is_open()) { throw std::runtime_error("Could not open book's input file!"); }
 
     cout<<"<?php"<<endl;
+    cout<<"/**"<<endl
+        <<"*"<<endl
+        <<"* If the contents do not display right, please convert data from `windows-1250` to `utf8` encoding."<<endl
+        <<"*"<<endl
+        <<"*/"<<endl;
 
     read_line(file, line);
     cout<<"$book_author = \""<<line<<"\";"<<endl;

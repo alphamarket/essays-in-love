@@ -86,7 +86,7 @@
                 <div id="sections">
                     <?php foreach ($curr_chap["sections"] as $section) :  ?>
                     <div class="section" id="section-<?php echo $section["sec"]; ?>">
-                        <span class="section-no"><?php echo $section["sec"] ?></span>.&nbsp;<p class="section-content"><?php echo $section["content"] ?></p>
+                        <span class="section-no"><?php echo $section["sec"] ?></span>.&nbsp;<p class="section-content"><?php echo iconv("Windows-1252", "UTF-8", $section["content"])?></p>
                     </div>
                     <?php endforeach; ?>
                 </div>

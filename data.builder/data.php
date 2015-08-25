@@ -1,4 +1,9 @@
 <?php
+/**
+*
+* If the contents do not display right, please convert data from `windows-1250` to `utf8` encoding.
+*
+*/
 $book_author = "Alain de Botton";
 $book_title = "Essays in love";
 $book_content = array(
