@@ -15,13 +15,13 @@
 <?php $get_chap_toc = function($chap) { return $chap["chap"].". ".$chap["title"]; }; ?>
 <?php $render_nav_links = function() use($get_chap_link, $prev_call, $get_chap_toc, $prev_chap, $curr_chap, $next_call, $next_chap, $is_last_chap) { ?>
     <div class="row" >
-        <div class="col-md-4 text-left">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 text-left">
             <a href="<?php echo $get_chap_link($prev_call) ?>">
                &laquo; <?php echo ($prev_call == "TOC" ? "Table Of Content" : $get_chap_toc($prev_chap)) ?>
             </a>
         </div>
-        <div class="col-md-4 text-center"><?php echo $curr_chap["title"] ?></div>
-        <div class="col-md-4 text-right">
+        <div class="col-xs-12 col-sm-4 col-md-4  col-lg-4 text-center"><?php echo $curr_chap["title"] ?></div>
+        <div class="col-xs-12 col-sm-4 col-md-4  col-lg-4 text-right">
             <?php if(!$is_last_chap): ?>
             <a href="<?php echo $get_chap_link($next_call) ?>">
                 <?php echo $get_chap_toc($next_chap) ?> &raquo;
@@ -39,8 +39,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <head>
         <link rel="stylesheet" href="/tb/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/tb/css/bootstrap-theme.min.css">
-        <script src="/tb/js/bootstrap.min.js"></script>
         <style id="reader-render-style">
             *{font-size: 20px; -webkit-font-smoothing: antialiased;}
             *, .normal-font { font-family:'Garamond','527df14f852458fb770b56af0020001','Garamond'; }
